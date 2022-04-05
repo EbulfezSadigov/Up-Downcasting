@@ -1,0 +1,16 @@
+C:\Users\test\source\repos\Updowncast\Updowncast\bin\Debug\net5.0\Updowncast.exe
+C:\Users\test\source\repos\Updowncast\Updowncast\bin\Debug\net5.0\Updowncast.deps.json
+C:\Users\test\source\repos\Updowncast\Updowncast\bin\Debug\net5.0\Updowncast.runtimeconfig.json
+C:\Users\test\source\repos\Updowncast\Updowncast\bin\Debug\net5.0\Updowncast.runtimeconfig.dev.json
+C:\Users\test\source\repos\Updowncast\Updowncast\bin\Debug\net5.0\Updowncast.dll
+C:\Users\test\source\repos\Updowncast\Updowncast\bin\Debug\net5.0\ref\Updowncast.dll
+C:\Users\test\source\repos\Updowncast\Updowncast\bin\Debug\net5.0\Updowncast.pdb
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.AssemblyInfo.cs
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.dll
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\ref\Updowncast.dll
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.pdb
+C:\Users\test\source\repos\Updowncast\Updowncast\obj\Debug\net5.0\Updowncast.genruntimeconfig.cache
